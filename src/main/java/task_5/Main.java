@@ -1,9 +1,7 @@
 package task_5;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.List;
 
 public class Main {
     // Метод будет выкидывать NullPointerException, сделал статик, чтоб не создавать экземпляр в тестах
